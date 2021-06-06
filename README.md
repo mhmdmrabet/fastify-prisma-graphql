@@ -1,1 +1,3 @@
-# fastify-prisma-graphql
+# Fastify & Prisma & GraphQl
+
+## First approach
